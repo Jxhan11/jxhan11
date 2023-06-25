@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://jxhan11.io)
 <h1 align="left">Hi 👋, I'm Johan Eapen</h1>
 <h3 align="left">I am an AIML Engineer with a passion for frontend from India.</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/Jxhan11/jxhan11/blob/main/cat.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxhan11&label=Profile%20views&color=0e75b6&style=flat" alt="jxhan11" /> </p>
 
